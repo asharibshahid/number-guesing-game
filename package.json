@@ -1,0 +1,20 @@
+{
+  "name": "number-guesing-game",
+  "version": "1.0.0",
+  "description": "its a number guesing game",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.13.0"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  }
+}
